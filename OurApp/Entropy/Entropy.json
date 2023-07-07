@@ -4,6 +4,7 @@
   "ControlUniqueIds": {
     "App": 1,
     "DatePicker1": 7,
+    "DatePicker1_1": 8,
     "Host": 3,
     "Label1": 5,
     "Screen1": 4,
@@ -11,7 +12,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/07/2023 05:21:35",
+  "HeaderLastSavedDateTimeUTC": "07/07/2023 05:49:30",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -30,6 +31,7 @@
   "OverridablePropertiesEntry": {
     "App": {},
     "DatePicker1": {},
+    "DatePicker1_1": {},
     "Host": {},
     "Label1": {},
     "Screen1": {},
@@ -40,6 +42,7 @@
   "PublishOrderIndices": {
     "App": 0,
     "DatePicker1": 0,
+    "DatePicker1_1": 0,
     "Host": 0,
     "Label1": 0,
     "Screen1": 0,
@@ -49,8 +52,13 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0356637,
-    "ControlCount": {}
+    "AnalysisLoadTime": 0.1663742,
+    "ControlCount": {
+      "datepicker": 2,
+      "label": 1,
+      "screen": 2
+    },
+    "DeserializationLoadTime": 1.3770435
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
